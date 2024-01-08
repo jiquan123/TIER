@@ -31,7 +31,9 @@ The pipeline of our proposed TIER framework.
 In our paper, we choose BERT as the text encoder for extracting features from text prompts. They are:
 -  bert-base-uncased
 -  bert-large-uncased
+
 It can be download using this link: [[百度网盘](https://pan.baidu.com/s/19TDTIm6_0QJtm8N1YlfMjg) (提取码：text)].
+
 or it can be accessed on [huggingface](https://huggingface.co/docs/transformers/installation).
 
 
