@@ -19,9 +19,9 @@ This is the official repo of the paper [TIER: Text and Image Encoder-based Regre
 
 ### Dataset
 we conduct extensive experiments on three mainstream AIGCIQA databases, including: 
--  AGIQA-1K [download](https://github.com/lcysyzxdxc/AGIQA-1k-Database)
--  AGIQA-3K [download](https://github.com/lcysyzxdxc/AGIQA-3k-Database)
--  AIGCIQA2023 [download](https://github.com/wangjiarui153/AIGCIQA2023)
+-  AGIQA-1K download [here](https://github.com/lcysyzxdxc/AGIQA-1k-Database)
+-  AGIQA-3K download [here](https://github.com/lcysyzxdxc/AGIQA-3k-Database)
+-  AIGCIQA2023 download [here](https://github.com/wangjiarui153/AIGCIQA2023)
 
 ### TIER
 The pipeline of our proposed TIER framework.
