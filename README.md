@@ -1,12 +1,12 @@
 # TIER
 
-This is the official repo of the paper [TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment](http://arxiv.org/abs/2311.15556):
+This is the official repo of the paper [TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment](https://arxiv.org/abs/2401.03854):
   ```
-@misc{yuan2023pkui2iqa,
-      title={PKU-I2IQA: An Image-to-Image Quality Assessment Database for AI Generated Images}, 
-      author={Jiquan Yuan and Xinyan Cao and Changjin Li and Fanyi Yang and Jinlong Lin and Xixin Cao},
-      year={2023},
-      eprint={2311.15556},
+@misc{yuan2024tier,
+      title={TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment}, 
+      author={Jiquan Yuan and Xinyan Cao and Jinming Che and Qinyuan Wang and Sen Liang and Wei Ren and Jinlong Lin and Xixin Cao},
+      year={2024},
+      eprint={2401.03854},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
