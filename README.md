@@ -3,7 +3,7 @@
 This is the official repo of the paper [TIER: Text-Image Encoder-based Regression for AIGC Image Quality Assessment](https://arxiv.org/abs/2401.03854):
   ```
 @misc{yuan2024tier,
-      title={TIER: Text and Image Encoder-based Regression for AIGC Image Quality Assessment}, 
+      title={TIER: Text-Image Encoder-based Regression for AIGC Image Quality Assessment}, 
       author={Jiquan Yuan and Xinyan Cao and Jinming Che and Qinyuan Wang and Sen Liang and Wei Ren and Jinlong Lin and Xixin Cao},
       year={2024},
       eprint={2401.03854},
